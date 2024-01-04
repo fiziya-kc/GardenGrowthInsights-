@@ -15,7 +15,7 @@ Clone the Repository:
 
 bash
 
-git clone https://github.com/your-username/garden-growth-tracker.git
+git clone https://github.com/fiziya-kc/GardenGrowthInsights-.git
 cd garden-growth-tracker
 Install Dependencies:
 
